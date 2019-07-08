@@ -28,5 +28,3 @@ Os dados fornecidos são de 01 de Janeiro de 2019 até 26 de Fevereiro de 2019. 
   ## Extras (não obrigatório):
   * Outros insights baseados nos dados fornecidos.
   * Exposição do modelo através de API (kubernetes ou IBM Cloud)
-
-#sol00
